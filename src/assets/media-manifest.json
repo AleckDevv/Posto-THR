@@ -1,0 +1,229 @@
+{
+  "images": {
+    "team-five-a": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#686858"
+    },
+    "team-five-b": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#c8b898"
+    },
+    "team-trio-pump": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#585848"
+    },
+    "team-duo": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#585848"
+    },
+    "team-trio-arms": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#585848"
+    },
+    "team-trio-close": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#887868"
+    },
+    "team-trio-calm": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#887868"
+    },
+    "team-lounge": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#d8d8d8"
+    },
+    "refuel-signs": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#a8a8a8"
+    },
+    "refuel-avenue": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#686868"
+    },
+    "refuel-hatch": {
+      "width": 720,
+      "height": 1280,
+      "widths": [
+        480,
+        720
+      ],
+      "color": "#484848"
+    },
+    "pump-detail": {
+      "width": 576,
+      "height": 1024,
+      "widths": [
+        480,
+        576
+      ],
+      "color": "#686868"
+    },
+    "street": {
+      "width": 576,
+      "height": 500,
+      "widths": [
+        480,
+        576
+      ],
+      "color": "#786868"
+    },
+    "hero-poster": {
+      "width": 576,
+      "height": 1024,
+      "widths": [
+        480,
+        576
+      ],
+      "color": "#787878"
+    },
+    "care-driver-poster": {
+      "width": 432,
+      "height": 768,
+      "widths": [
+        432
+      ],
+      "color": "#686868"
+    },
+    "care-refuel-poster": {
+      "width": 432,
+      "height": 768,
+      "widths": [
+        432
+      ],
+      "color": "#787878"
+    },
+    "care-window-poster": {
+      "width": 432,
+      "height": 768,
+      "widths": [
+        432
+      ],
+      "color": "#887878"
+    },
+    "care-squeegee-poster": {
+      "width": 576,
+      "height": 384,
+      "widths": [
+        480,
+        576
+      ],
+      "color": "#a8a8b8"
+    },
+    "care-moto-poster": {
+      "width": 432,
+      "height": 768,
+      "widths": [
+        432
+      ],
+      "color": "#787878"
+    },
+    "care-pump-poster": {
+      "width": 432,
+      "height": 768,
+      "widths": [
+        432
+      ],
+      "color": "#686868"
+    },
+    "care-checkout-poster": {
+      "width": 432,
+      "height": 768,
+      "widths": [
+        432
+      ],
+      "color": "#788888"
+    }
+  },
+  "videos": {
+    "hero": {
+      "width": 576,
+      "height": 1024,
+      "duration": 8
+    },
+    "care-driver": {
+      "width": 432,
+      "height": 768,
+      "duration": 5
+    },
+    "care-refuel": {
+      "width": 432,
+      "height": 768,
+      "duration": 6.5
+    },
+    "care-window": {
+      "width": 432,
+      "height": 768,
+      "duration": 3.9
+    },
+    "care-squeegee": {
+      "width": 576,
+      "height": 384,
+      "duration": 6
+    },
+    "care-moto": {
+      "width": 432,
+      "height": 768,
+      "duration": 3.4
+    },
+    "care-pump": {
+      "width": 432,
+      "height": 768,
+      "duration": 2.5
+    },
+    "care-checkout": {
+      "width": 432,
+      "height": 768,
+      "duration": 7
+    }
+  }
+}
