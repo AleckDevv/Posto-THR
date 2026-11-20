@@ -66,6 +66,19 @@
   }
   --animate-scroll-cue: scroll-cue 2.4s var(--ease-in-out-quint) 1.6s 3 both;
 
+  /* Indicativo de "deslize para o lado" (finito: 4 repetições) */
+  --animate-nudge: nudge 1.4s var(--ease-in-out-quint) 0.8s 4 both;
+
+  @keyframes nudge {
+    0%,
+    100% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(6px);
+    }
+  }
+
   @keyframes scroll-cue {
     from {
       transform: translateY(-100%);
